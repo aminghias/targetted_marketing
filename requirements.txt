@@ -1,4 +1,5 @@
-scikit-learn @ file:///C:/ci/scikit-learn_1642599125707/work
+scikit-learn
 pandas
 streamlit
+numpy
 
