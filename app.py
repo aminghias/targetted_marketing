@@ -15,6 +15,8 @@ import streamlit as st
 
 import sklearn
 
+from sklearn.ensemble import HistGradientBoostingClassifier
+
 
 st.write("""
 
